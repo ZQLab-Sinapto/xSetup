@@ -6,4 +6,4 @@
 
 - xSetup Web-App.pptx: Specifiche di base dell'applicazione
 - zqxhub.json: File json della struttura dati 
-- httprestapi.doc: Documentazione dell'interfaccia http rest
+- zqxhub_httprestapi.doc: Documentazione dell'interfaccia http rest
